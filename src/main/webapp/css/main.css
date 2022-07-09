@@ -1,0 +1,65 @@
+html {
+    height: 100vh;
+    background-color: lightgrey;
+
+}
+nav.navbar {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #bacdd7;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.container-fluid.search-links {
+    background-color: #f3d3ab;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+img.banner {
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+html {
+    height: 100vh;
+    background-color: lightgrey;
+
+}
+nav.navbar {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: #bacdd7;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.container-fluid.search-links {
+    text-align: right;
+    background-color: #f3d3ab;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+img.banner {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+.team-name, .data-sources{
+    text-align: right;
+}
+
+
+
+
+
+
+
